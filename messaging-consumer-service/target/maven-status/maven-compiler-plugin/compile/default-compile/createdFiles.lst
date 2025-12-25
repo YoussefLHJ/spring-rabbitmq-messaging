@@ -1,0 +1,5 @@
+yousseflhj/microservices/messagingconsumer/config/RabbitMQConfig.class
+yousseflhj/microservices/messagingconsumer/service/ConsumerService.class
+yousseflhj/microservices/messagingconsumer/domain/User.class
+yousseflhj/microservices/messagingconsumer/MessagingConsumerApplication.class
+yousseflhj/microservices/messagingconsumer/repository/UserRepository.class

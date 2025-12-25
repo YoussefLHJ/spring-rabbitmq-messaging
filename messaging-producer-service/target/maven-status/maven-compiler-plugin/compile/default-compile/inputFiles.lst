@@ -1,0 +1,5 @@
+/home/yousseflhj/EMSI/SM3/AC/TPs/TP31/messaging-producer-service/src/main/java/yousseflhj/microservices/messaging/domain/User.java
+/home/yousseflhj/EMSI/SM3/AC/TPs/TP31/messaging-producer-service/src/main/java/yousseflhj/microservices/messaging/service/ProducerService.java
+/home/yousseflhj/EMSI/SM3/AC/TPs/TP31/messaging-producer-service/src/main/java/yousseflhj/microservices/messaging/MessagingApplication.java
+/home/yousseflhj/EMSI/SM3/AC/TPs/TP31/messaging-producer-service/src/main/java/yousseflhj/microservices/messaging/config/RabbitMQConfig.java
+/home/yousseflhj/EMSI/SM3/AC/TPs/TP31/messaging-producer-service/src/main/java/yousseflhj/microservices/messaging/controller/ProducerController.java

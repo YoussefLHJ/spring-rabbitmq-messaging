@@ -1,0 +1,5 @@
+yousseflhj/microservices/messaging/controller/ProducerController.class
+yousseflhj/microservices/messaging/service/ProducerService.class
+yousseflhj/microservices/messaging/MessagingApplication.class
+yousseflhj/microservices/messaging/config/RabbitMQConfig.class
+yousseflhj/microservices/messaging/domain/User.class

@@ -1,0 +1,5 @@
+/home/yousseflhj/EMSI/SM3/AC/TPs/TP31/messaging-consumer-service/src/main/java/yousseflhj/microservices/messagingconsumer/repository/UserRepository.java
+/home/yousseflhj/EMSI/SM3/AC/TPs/TP31/messaging-consumer-service/src/main/java/yousseflhj/microservices/messagingconsumer/service/ConsumerService.java
+/home/yousseflhj/EMSI/SM3/AC/TPs/TP31/messaging-consumer-service/src/main/java/yousseflhj/microservices/messagingconsumer/config/RabbitMQConfig.java
+/home/yousseflhj/EMSI/SM3/AC/TPs/TP31/messaging-consumer-service/src/main/java/yousseflhj/microservices/messagingconsumer/domain/User.java
+/home/yousseflhj/EMSI/SM3/AC/TPs/TP31/messaging-consumer-service/src/main/java/yousseflhj/microservices/messagingconsumer/MessagingConsumerApplication.java
