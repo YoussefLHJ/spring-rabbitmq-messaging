@@ -1,20 +1,31 @@
-## 1. Interface de gestion RabbitMQ – Vue des échanges (Exchanges) disponibles
-![img.png](screens/img.png)
+# Spring RabbitMQ Messaging
 
-## 2. Configuration et publication de messages via Postman – API RabbitMQ
-![img_1.png](screens/img_1.png)
+A Spring Boot messaging exercise demonstrating RabbitMQ exchanges, bindings, publishing, consumption, REST-based message production, and persistence.
 
-## 3. Détails de l’exchange « 2ite_micro_message_exchange » dans RabbitMQ
-![img_2.png](screens/img_2.png)
+## What is demonstrated
 
-## 4. Console d'exécution du consommateur RabbitMQ (Spring Boot)
-![img_3.png](screens/img_3.png)
+- RabbitMQ exchange inspection and configuration
+- Message publication through a REST endpoint
+- Spring Boot consumer execution
+- Exchange bindings
+- Message persistence verification
 
-## 5. Test d’envoi de messages via l’API REST – Producteur RabbitMQ
-![img_4.png](screens/img_4.png)
+## Screenshots
 
-## 6. Visualisation de l’exchange utilisateur et des bindings associés
-![img_5.png](screens/img_5.png)
+![RabbitMQ exchanges](screens/img.png)
 
-## 7. Vérification de la persistance des messages dans la base de données
-![img_6.png](screens/img_6.png)
+![REST message publication](screens/img_1.png)
+
+![Exchange details](screens/img_2.png)
+
+![Consumer](screens/img_3.png)
+
+![Producer API](screens/img_4.png)
+
+![Bindings](screens/img_5.png)
+
+![Persistence](screens/img_6.png)
+
+## Coursework
+
+This repository is presented as a focused messaging exercise; the screenshots document the observed setup and tests.
